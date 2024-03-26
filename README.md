@@ -6,7 +6,7 @@
  <div>
    <p>
      Meu Instagram: <a href="https://instagram.com/felipe440hz"> @Felipe440hz</a> <br>
-     Meu Canal no Youtube: <a href="https://youtube.com/felipenascimentomusico">FelipeNascimento</a>
+     Canal no Youtube: <a href="https://youtube.com/felipenascimentomusico">FelipeNascimento</a>
    </p>
   
 </div>
